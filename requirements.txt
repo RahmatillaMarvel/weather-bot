@@ -1,0 +1,2 @@
+python-weather
+aiogram==2.25
